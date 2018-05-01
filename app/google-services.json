@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379587457347",
+    "firebase_url": "https://gplusintegration-202815.firebaseio.com",
+    "project_id": "gplusintegration-202815",
+    "storage_bucket": "gplusintegration-202815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379587457347:android:9d7fe541219bc5e7",
+        "android_client_info": {
+          "package_name": "prateek.gintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379587457347-p105n4n7ir68jooh8m8ufc4di0e6ba62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prateek.gintegration",
+            "certificate_hash": "314bc4e620aac720403f854da70f92fc2a7f3b7f"
+          }
+        },
+        {
+          "client_id": "379587457347-49k9rf9o58ajltu0f8n9th116gt0tj0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xWOGNCO0PSvYqCYP2XNV3kS3dSQomdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379587457347-49k9rf9o58ajltu0f8n9th116gt0tj0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
